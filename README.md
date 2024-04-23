@@ -1,4 +1,4 @@
-# Realtime_Video_Stabilization
+![image](https://github.com/liutao14/Realtime_Video_Stabilization/assets/110754123/54970b7f-6e69-4e6f-af40-52a149e5837e)![image](https://github.com/liutao14/Realtime_Video_Stabilization/assets/110754123/7ed93920-cc3b-4c71-917d-75f7181b05c4)# Realtime_Video_Stabilization
 This repository contains the source code implementation for our paper titled "Real-Time Video Stabilization Algorithm Based on SuperPoint." The paper presents an efficient algorithm for stabilizing shaky videos by leveraging SuperPoint feature points.
 
 Paper Link: https://webvpn.njust.edu.cn/https/77726476706e69737468656265737421f9f244993f20645f6c0dc7a59d50267b1ab4a9/document/10360180/
@@ -37,6 +37,9 @@ Execute the stab.py script.
 bash
 python stab.py
 Please ensure that all dependencies and paths are properly configured before running the code.
+
+***************Please organize the directory structure according to the given file ：directory.jpg***********************
+
 
 Contributions and Feedback
 If you encounter any issues while using this repository or wish to contribute improvements, please feel free to contact us via email or through GitHub issues. We welcome any feedback and suggestions.
