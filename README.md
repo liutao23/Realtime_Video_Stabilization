@@ -13,6 +13,10 @@ Paper Link: https://webvpn.njust.edu.cn/https/77726476706e69737468656265737421f9
 
 Important Notes
 Please note that this repository is not a direct replica of the version described in the paper. We have made enhancements and included new features such as alike and zippypoint for extracting image features. Additionally, we have incorporated dense optical flow, pwcnet, and liteflownet for tracking the movement of feature points. Furthermore, LSTM is utilized to smoothen the camera path. However, please be advised that this repository is still under development, and some functionalities may not be fully complete.
+Notice: Other stablization Method:DUT,FuSta,PWStablenet,Stabnet and Deep3D is In this link:通过百度网盘分享的文件：稳像方法.zip
+链接：https://pan.baidu.com/s/1lMLTJEkEM7vyP1yH01Li1Q?pwd=vr5b 
+提取码：vr5b 
+--来自百度网盘超级会员V5的分享，you can also send e-mail to ask them!
 
 Usage Scope
 This code is solely intended for academic research purposes and is strictly prohibited from being used for any commercial or non-academic endeavors.
